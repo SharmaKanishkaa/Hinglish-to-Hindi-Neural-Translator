@@ -1,0 +1,7 @@
+torch==2.1.0        # For PyTorch, specify the version compatible with your setup
+gradio==3.32.0      # For creating the interactive Gradio app
+numpy==1.24.0       # For numerical operations
+pandas==2.0.3       # For data handling and preprocessing
+scipy==1.10.1       # For some scientific computations, might be used in the model
+tqdm==4.66.0        # For progress bars in training/evaluation
+sentencepiece==0.1.96  # For handling tokenization, especially in character-level models
